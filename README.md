@@ -1,5 +1,7 @@
 ### Introduction
 
+This is my version of the second Programming Assignment for John Hopkins University's [R Programming Coursera course](https://class.coursera.org/rprog-009/wiki/syllabus). Part of the Data Science Specialization.  
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
